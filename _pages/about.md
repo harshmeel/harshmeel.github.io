@@ -18,7 +18,7 @@ redirect_from:
 
 🪴I am from a town called Jhunjhunu, situtated near Jaipur, Rajasthan, India and currently live in Greater Noida, Delhi NCR.
 
-🖥️I have a unexplained disliking to compartmentalised record keeping of previous works (Latin for CV making 😁). This website is a compromise I have reached with it.
+🖥️I have a disliking to compartmentalised record keeping of one's prior exploits (Latin for CV making 😁). This website is a compromise I have reached with it.
 
 
 A data-driven personal website
