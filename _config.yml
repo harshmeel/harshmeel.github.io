@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Harsh Meel"
   avatar           : "profile.png"
-  bio              : "I have done stuff. I am interested in stuff.. You can take me together to do stuff..."
-  location         : "Noida, Uttar Pradesh, India"
+  bio              : "BTech IIT Bombay'23 - Major in Civil Eng. with a Minor in Mechanical Eng. "
+  location         : "Greater Noida, India"
   employer         : "Executive Trainee at Tata Projects"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "harsh.meel15 [ at ] gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,17 +99,17 @@ author:
   github           : "harshmeel"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "harsh.meel"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/harshmeel"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "harshmeel"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
