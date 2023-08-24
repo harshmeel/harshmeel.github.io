@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "🙋‍♂️Hello there, I am Harsh ."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+🏗️ I am currently working as an Executive Trainee, constructing the Noida International Airport, Jewar for Tata Projects. 
+
+🎓 I did my undergrad from IIT Bombay in 2023, Majoring in Civil Engineering with a Minor in Mechnical Engineering. I am interested in Climate Change solutions and imagining a sustainable approach to infrastructure and our built-environment.
+
+🔬My interests and work have span areas of Mechnical Design,Optimistaion Research, Probabilistic Modelling and analysis. I love to work on hands-on problems, for real world processes keep me amazed and ever curious.   
+
+🏎️Apart from academia, I have been involved in Formula Student, Table Tennis and Film-making. Lately, I have also gained a huge interest in contemporary western music and metal/rock.
+
+🪴I am from a town called Jhunjhunu, situtated near Jaipur, Rajasthan, India and currently live in Greater Noida, Delhi NCR.
+
+🖥️I have a unexplained disliking to compartmentalised record keeping of previous works (Latin for CV making 😁). This website is a compromise I have reached with it.
+
 
 A data-driven personal website
 ======
