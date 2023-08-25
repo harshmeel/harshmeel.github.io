@@ -21,4 +21,4 @@ I had chosen the Battery subsystem as my area of focus in the team for resons in
 I inherited a pretty good and reliable battery design from my predecessor. In my junior year, I had discussed with my previous DE that a parallel configuration, though pretty complex, would be a great improvement on current battery.
 In my tenure, we had to order new set of cells for the battery, and I along with my co-Design Engineer [M Danish](https://www.linkedin.com/in/danish-m-444848198/) decided this was a great oppurtunity to design IIT Bombay Racing's first parallel configuration Battery.
 
-Please find the report describing how we did it using [this link](files\Harsh Energy calculation Summary.pdf)
+Please find the report describing how we did it using [this link](https://harshmeel.github.io/files/Harsh Energy calculation Summary.pdf)
