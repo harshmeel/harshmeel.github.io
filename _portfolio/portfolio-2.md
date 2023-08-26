@@ -1,6 +1,6 @@
 ---
 title: "Driver factor based Battery Energy Estimation"
-excerpt: "Harsh Meel, Kunal Jain <br/> Estimating the size of battery (energy contained) is crucial in having a competititve edge in Formula Student competition. In this project, we worked to combine computer simulation results with real life expected performance of our drivers to estimate the energy required for our car <br/><img src='/images/energy_ai.JPG' alt="Energy AI art" width="500px">" 
+excerpt: "Harsh Meel, Kunal Jain.Estimating the size of battery (energy contained) is crucial in having a competititve edge in Formula Student competition. In this project, we worked to combine computer simulation results with real life expected performance of our drivers to estimate the energy required for our car <br/><img src='/images/energy_ai.JPG' alt="Energy AI art" width="500px">" 
 gallery:
   - url: energy calculation.png
     image_path: energy calculation.png
