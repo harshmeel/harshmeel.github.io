@@ -1,9 +1,11 @@
 ---
 title: "Novel Method to calculate energy 2"
-excerpt: "Harsh Meel, M Danish - In my third year of Undergrad, I worked as a Mechanical Design Engineer for [IIT Bombay Racing](https://www.iitbracing.org/). The team builds a battery-run formula-style car from scratch in a year and competes at Formula Student UK, an international student competition, where we won the Design Event in 2021. <br/>  <div style="display: flex; justify-content: center;">
+excerpt: >
+    Harsh Meel, M Danish - In my third year of Undergrad, I worked as a Mechanical Design Engineer for [IIT Bombay Racing](https://www.iitbracing.org/). The team builds a battery-run formula-style car from scratch in a year and competes at Formula Student UK, an international student competition, where we won the Design Event in 2021.
+    <div style="display: flex; justify-content: center;">
     <img src='/images/battery stack.JPG' alt="Image 1" style="width: 48%; margin-right: 4%;">
     <img src='/images/battery assembly.png' alt="Image 2" style="width: 48%;">
-  </div>"
+    </div>
 gallery:
   - url: energy calculation.png
     image_path: energy calculation.png
