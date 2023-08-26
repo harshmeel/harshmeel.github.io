@@ -2,12 +2,12 @@
 title: "Novel Method to calculate energy"
 excerpt: "Harsh Meel, M Danish <br/> In my third year of Undergrad, I worked in capacity of Mechanical Design Engineer for [IIT Bombay Racing](https://www.iitbracing.org/). The team builds a battery run fomula style car from scratch in a year and runs it at Formula Student UK, a international student competition, where we Won in Design Event 2021. " 
 gallery:
-  - url: images/energy calculation.png
-    image_path: images/energy calculation.png
+  - url: /images/energy calculation.png
+    image_path: /images/energy calculation.png
     alt: "breif overview of energy calculation"
     title: "breif overview of energy calculation"
-  - url: images/combined_fit.png
-    image_path: images/combined_fit.png
+  - url: /images/combined_fit.png
+    image_path: /images/combined_fit.png
     alt: "combined fitting of driver profile"
     title: "combined fitting of driver profile"
 collection: portfolio
