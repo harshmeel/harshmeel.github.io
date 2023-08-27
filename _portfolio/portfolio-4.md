@@ -12,6 +12,6 @@ collection: portfolio
 Here is a short video giving a quick glimpse to our Summer Project. It was a fun activity in the COVID lockdown, giving us a much needed break!
 
 <video width="640" height="360" controls>
-  <source src="/files/project video team saviors.mp4" type="video/mp4">
+  <source src="/files/project_video_team.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
