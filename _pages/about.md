@@ -17,5 +17,3 @@ redirect_from:
 🏎️Apart from academia, I have been involved in Formula Student, Film-making and going on adventures . Lately, I have also gained a huge interest in contemporary western music and metal/rock.
 
 🪴I am from a town called Jhunjhunu, situtated near Jaipur, Rajasthan, India and currently live in Greater Noida, Delhi NCR.
-
-s
