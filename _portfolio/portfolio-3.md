@@ -3,7 +3,7 @@ title: "Optimization of Electric Vehicle Charging Infrastructure"
 excerpt:  >
   Guided by : [Prof. Tom Mathew](https://www.civil.iitb.ac.in/~vmtom/4201-bioData/tvmcv/tvmcv.html)-Optimisation Theory-Sustainable Infrastructure-Electric Vehicle<br/>
    In my last semester at IITB, I undertook this study of optimizing electric vehicle (EV) charging infrastructure along a pivotal Indian highway. Originating from my BTech Technical Project, this study leverages Optimization theory and established methodologies to formulate an efficient EV charging framework for the Mumbai-Pune route.This project ignited my interest in the realm of optimization research and computing.<br/>  
-  <img src='/images/BTP graphs.pngBTP graphs.png' alt='Energy AI art' width='500px'>
+  <img src='/images/BTP graphs.png' alt='BTP graphs results' width='500px'>
 ---
 [Click here](https://harshmeel.github.io/files/Final Report on BTP I .pdf) for the detailed report. If too short on time,[Click here](https://harshmeel.github.io/files/Final PPT BTP I.pdf) refer to this short presentation summarising the report.
 
