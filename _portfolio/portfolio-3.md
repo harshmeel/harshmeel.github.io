@@ -1,33 +1,10 @@
 ---
-title: "Novel Method to calculate energy 2"
-excerpt: >
-    Harsh Meel, M Danish 
-    
-    In my third year of Undergrad, I worked as a Mechanical Design Engineer for [IIT Bombay Racing](https://www.iitbracing.org/). The team builds a battery-run formula-style car from scratch in a year and competes at Formula Student UK, an international student competition, where we won the Design Event in 2021.
-
-    <img src='/images/battery stack.JPG' alt="Image 1" width='250px'>
-    <img src='/images/battery assembly.png' alt="Image 2" width='250px'>
-gallery:
-  - url: energy calculation.png
-    image_path: energy calculation.png
-    alt: "brief overview of energy calculation"
-    title: "brief overview of energy calculation"
-  - url: combined_fit.png
-    image_path: combined_fit.png
-    alt: "combined fitting of driver profile"
-    title: "combined fitting of driver profile"
-collection: portfolio
+title: "Optimization of Electric Vehicle Charging Infrastructure"
+excerpt:  >
+  Guided by : [Prof. Tom Mathew](https://www.civil.iitb.ac.in/~vmtom/4201-bioData/tvmcv/tvmcv.html)-Optimisation Theory-Sustainable Infrastructure-Electric Vehicle<br/>
+   In my last semester at IITB, I undertook this study of optimizing electric vehicle (EV) charging infrastructure along a pivotal Indian highway. Originating from my BTech Technical Project, this study leverages Optimization theory and established methodologies to formulate an efficient EV charging framework for the Mumbai-Pune route.This project ignited my interest in the realm of optimization research and computing.<br/>  
+  <img src='/images/BTP graphs.pngBTP graphs.png' alt='Energy AI art' width='500px'>
 ---
+[Click here](https://harshmeel.github.io/files/Final Report on BTP I .pdf) for the detailed report. If too short on time,[Click here](https://harshmeel.github.io/files/Final PPT BTP I.pdf) refer to this short presentation summarising the report.
 
-I had chosen the Battery subsystem as my area of focus in the team for reasons including:
-
-1. It was at the intersection of electrical and mechanical systems of the car, giving me a wide area of engineering to play with.
-2. Battery subsystem had a big order coming up. There was a potential to improve a lot and thus, A LOT OF POTENTIAL SPACE TO TINKER.
-
-{% include gallery %}
-
-I inherited a pretty good and reliable battery design from my predecessor. In my junior year, I had discussed with my previous Design Engineer that a parallel configuration, though pretty complex, would be a great improvement on the current battery.
-
-In my tenure, we had to order a new set of cells for the battery, and I, along with my co-Design Engineer [M Danish](https://www.linkedin.com/in/danish-m-444848198/), decided this was a great opportunity to design IIT Bombay Racing's first parallel configuration Battery.
-
-Please find the report describing how we did it using [this link](https://harshmeel.github.io/files/Harsh_Energy_calculation_Summary.pdf).
+This report delves into a comprehensive analysis of optimizing battery electric vehicle (EV) charging infrastructure along an Indian highway corridor. With EVs gaining prominence as an alternative to traditional cars, inadequate infrastructure has hindered their adoption. This study focuses on developing an optimal charging setup to minimize travel and charging delays while ensuring economic feasibility. Industry consultations with Tata Motors and Exponent Energy refined the problem statement, emphasizing optimal charger placement. The research begins with a simplified model for a single corridor, optimizing battery range and charger power to minimize costs and enhance service. Results highlight the importance of Level 3 DC fast charging infrastructure and its cost-effectiveness in improving the EV charging landscape.
