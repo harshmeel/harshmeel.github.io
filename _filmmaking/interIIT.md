@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Inter"
-permalink: /filmmaking/inter
+permalink: /filmmaking/inter/
 collection: filmmaking
 ---
 
