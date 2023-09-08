@@ -187,9 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  filmmaking:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
