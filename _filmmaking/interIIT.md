@@ -1,28 +1,17 @@
 ---
-layout: page
-title: "Inter"
-permalink: /filmmaking/inter/
-collection: filmmaking
+title: "Overtake Assist System"
+excerpt:  >
+  Harsh Meel,[Ayush Jangir](https://www.linkedin.com/in/ayush-jangir-183294194/),[Paarth Jain](https://www.linkedin.com/in/paarth-jain-950806190), Sabhya Sanchi-Institute Technical Summer Project<br/>
+  In the summer of 2020, during our first year of undergrad, we embarked on a project to enhance road safety.Our objective was to counter the prevalent issue of accidents arising from ill-timed overtaking maneuvers.We conceived a driver-assist system tailored to address this concern. The project's success was underscored by a special mention from the Institute Technical Council at IIT Bombay.<br/>  
+  <img src='/images/saviors simulator.png' alt='Energy AI art' width='500px'>
+
+permalink : /filmmaking/interiit
 ---
+[Click here](https://harshmeel.github.io/files/Saviors Final Documentation.pdf) for a detailed report of the Overtake Assist System. Maybe have a look at the 2D simulator webapp we made [here](https://099ayush.github.io/Saviors_ITSP2020/).
 
-## Inter IIT Filmmaking Cup 2023
+Here is a short video giving a quick glimpse to our Summer Project. It was a fun activity in the COVID lockdown, giving us a much needed break!
 
-### Online Short Film Making
-
-Description: After a grueling two-year COVID-induced hiatus, Inter IIT was finally back in action during my fourth year. Picture this: a bunch of film buffs, clueless about filmmaking, and without a 'senior' to show us the ropes (apparently, I was now the 'senior', who had never shot a Inter IIT Film before), decided to take the plunge. I picked up the camera, thinking I'd learn as I go, but guess what? I ended up leading the entire cinematography gig!
-
-For a solid month, we scoured locations, brainstormed themes, and assembled the most 'cool yet amateur' crew you could imagine and shot a mystical 1950s Bombay slum story - "Narsimha" . But you know what? We pulled it off! This put me in love with film-making.
-
-Embedded Video:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1e0LbLwp89U" frameborder="0" allowfullscreen></iframe>
-
-### 51 hours Filmmaking
-
-Description: Right after our online film journey, we dashed off to IIT Madras for a whirlwind adventure: the 51-hour film challenge. Here's the deal – you get a theme one fine morning, and then you've got just 51 hours to dream it up, shoot it, edit it, and submit a short film. No rules, except you're stuck with your crew.
-
-Our gang? A bunch of students handpicked from our last film, "Narsimha." The theme was "Superpower for a day." We hit the Chennai streets, even had a run-in with the local police, and after two wild days, we birthed this comedic piece - "CHOR" .
-
-Guess what? It scored us a gleaming gold at the event and, paired with our online film, we swept the FILM CUP at Inter IIT. A bunch of rookies just breathed life back into the IITB film society post-COVID!
-
-Embedded Video:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4DbHJ2F3q3E" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+  <source src="/files/project_video_team.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
