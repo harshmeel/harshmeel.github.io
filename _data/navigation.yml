@@ -15,8 +15,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  #- title: "Film Making"
-  #  url: /filmmaking/
+  - title: "Film Making"
+    url: /filmmaking/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
