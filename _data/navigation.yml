@@ -3,8 +3,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Filmmaking"
-    url: /talks/    
+  #- title: "Filmmaking"
+  #  url: /talks/    
 
   - title: "CV"
     url: /files/2 page resume-Aug2023.pdf
