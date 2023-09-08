@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Inter IIT Cultural Meet 5.0 - Film Cup Winner"
-permalink: /filmmaking/interiit1
+permalink: /filmmaking/inter-iit-cultural-meet-5-0-film-cup-winner/
+
 ---
 
 ## Inter IIT Filmmaking Cup 2023
