@@ -2,6 +2,7 @@
 layout: page
 title: "Inter"
 permalink: /filmmaking/inter
+collection: filmmaking
 ---
 
 ## Inter IIT Filmmaking Cup 2023
