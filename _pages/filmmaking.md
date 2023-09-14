@@ -1,6 +1,6 @@
 ---
-title: "Inter IIT Cultural Meet 5.0"
-permalink: /filmmaking/interiit
+title: "Film Projects"
+permalink: /filmmaking/
 ---
 
 ## Inter IIT Filmmaking Cup 2023
@@ -11,7 +11,6 @@ After a grueling two-year COVID-induced hiatus, Inter IIT was finally back in ac
 
 For a solid month, we scoured locations, brainstormed themes, and assembled the most 'cool yet amateur' crew you could imagine and shot a mystical 1950s Bombay slum story - "Narsimha" . But you know what? We pulled it off! This put me in love with film-making.
 
-Embedded Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1e0LbLwp89U?si=eJpKUhK0Guy3B6VP" frameborder="0" allowfullscreen></iframe>
 
 ### 51 hours Filmmaking
@@ -22,5 +21,16 @@ Our gang? A bunch of students handpicked from our last film, "Narsimha." The the
 
 Guess what? It scored us a gleaming gold at the event and, paired with our online film, we swept the FILM CUP at Inter IIT. A bunch of rookies just breathed life back into the IITB film society post-COVID!
 
-Embedded Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DbHJ2F3q3E?si=kfXwxE9sdjC78BnB" frameborder="0" allowfullscreen></iframe>
+
+## Music Video General Championship 2021-22
+
+Music videos have always been a favorite of mine! Though I never picked up the skills to be a rockstar, music videos, and shooting concerts seem to be a way to be close to that magic. One of my earlier and amateur attempts at being the rockstar I never came to be was filming "To rid the disease." Brainchild of a genius called Bhagwan Dutt, who was always the highest in the room :P , this is a film made using four things:
+1. A Oneplus Smartphone
+2. A smartphone gimbal
+3. One Aperture MC light
+4. Bhagwan's *divine inspiration* 
+
+The film got the best editing, but I am pretty sure the judge mistook cinematography for editing. Though I am certain that he was intoxicated! 😄
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0TShDIlF9I?si=s7IxMPM5MxC9DSm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
