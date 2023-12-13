@@ -1,5 +1,5 @@
 ---
-title: "Film Projects"
+title: "A blog of my Film Projects"
 permalink: /filmmaking/
 ---
 
@@ -31,6 +31,6 @@ Music videos have always been a favorite of mine! Though I never picked up the s
 3. One Aperture MC light
 4. Bhagwan's *divine inspiration* 
 
-The film got the best editing, but I am pretty sure the judge mistook cinematography for editing. Though I am certain that he was intoxicated! 😄
+The film got the best editing, but I am pretty sure the judge mistook cinematography for editing 😄 .
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0TShDIlF9I?si=s7IxMPM5MxC9DSm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
