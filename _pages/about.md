@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am studying and planning to (hopefully) specialize in Energy and Sustainability. 
+🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am studying and planning to (hopefully!) specialize in Energy and Sustainability. 
 
 🎓 I did my undergrad at IIT Bombay in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering. I am interested in Climate Change solutions, and my focus gravitates toward the subfields of electric mobility, energy storage, and optimizing clean energy infrastructure like vehicle charging.
 
