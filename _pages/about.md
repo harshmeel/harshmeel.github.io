@@ -16,4 +16,4 @@ redirect_from:
 
 🏎️ Apart from academia, I have been involved in Formula Student, Film-making, and going on adventures. I love to travel with my mirrorless camera to capture shots and make cinematic travel diaries.
 
-🪴 I am from a town called Jhunjhunu, situated near Jaipur, Rajasthan, India, and I live in Mumbai, India.
+🪴 I am from a town called Jhunjhunu, situated near Jaipur, Rajasthan, India, and I live in Ithaca, United States.
