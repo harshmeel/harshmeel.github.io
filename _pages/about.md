@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am studying and planning to (hopefully!) specialize in Energy and Sustainability. 
+🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am member of the [Climate Engineering](https://climate-engineering.mae.cornell.edu/) group at Cornell Engineering under Prof. Douglas MacMartin. I am also working as a Research Assistant on Technical and Policy Implications of New York State Climate Plan in the [Anderson Research Group](https://andersonenergylab-cornell.github.io/). I did my undergrad at IIT Bombay, India in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering.
 
-🎓 I did my undergrad at IIT Bombay in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering. I am interested in Climate Change solutions, and my focus gravitates toward the subfields of electric mobility, energy storage, and optimizing clean energy infrastructure like vehicle charging.
+🧐 I am passionate about creating a sustainable, carbon-free future that supports economic growth, prosperity, and equity. Utilizing my engineering expertise, I am working on projects aimed at preventing and adapting to anthropogenic climate change.
 
-🔬 My work have span areas of Mechanical Design, Optimization Research, Probabilistic Modelling, and Analysis. My skills have evolved from CAD and simulations to computing and analysis lately. I love to work on hands-on problems, for feedback from the real world keeps me amazed and ever curious.    
+🔬 My previous work have span areas of Mechanical Design, Optimization Research, Probabilistic Modelling, and Analysis. My skills have evolved from product design to computing and analysis lately. I love to work on hands-on problems, for feedback from the real world keeps me amazed and ever curious.    
 
 🏎️ Apart from academia, I have been involved in Formula Student, Film-making, and going on adventures. I love to travel with my mirrorless camera to capture shots and make cinematic travel diaries.
 
