@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am member of the [Climate Engineering](https://climate-engineering.mae.cornell.edu/) group at Cornell Engineering under Prof. Douglas MacMartin. I am also working as a Research Assistant on Technical and Policy Implications of New York State Climate Plan in the [Anderson Research Group](https://andersonenergylab-cornell.github.io/). I did my undergrad at IIT Bombay, India in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering.
+🧑‍💻 I am a first-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am member of the [Climate Engineering](https://climate-engineering.mae.cornell.edu/) group at Cornell Engineering under Prof. Douglas MacMartin, researching Stratospheric Aerosol Injection as a strategy to fight climate change. I did my undergrad at IIT Bombay, India in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering.
 
 🧐 I am passionate about creating a sustainable, carbon-free future that supports economic growth, prosperity, and equity. Utilizing my engineering expertise, I am working on projects aimed at preventing and adapting to anthropogenic climate change.
 
