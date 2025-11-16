@@ -13,7 +13,7 @@ gallery:
     image_path: combined_fit.png
     alt: "combined fitting of driver profile"
     title: "Combined driver profile fitting"
-collection: portfolio
+collection: projects
 ---
 [Click here](https://harshmeel.github.io/files/Harsh Energy calculation Summary.pdf) for the detailed report of Driver factor based energy estimation.
 

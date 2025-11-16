@@ -14,7 +14,7 @@ gallery:
     image_path: survey charging-1.png
     alt: "barriers to the EV switch"
     title: "Overview of barriers to EV switch for Indian customers"
-collection: portfolio
+collection: projects
 ---
 [Click here](https://harshmeel.github.io/files/Flux Energy - Survey.pdf) for our detailed user survey report and market research on electric vehicle charging infrastructure in India. [Click here](https://harshmeel.github.io/files/Flux Energy Final.pdf) for the final pitch presentation of Flux Energy - A Conceptual Residential Electric Vehicle Charging Startup.
 
