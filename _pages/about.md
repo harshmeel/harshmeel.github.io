@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "About"
+title: "🙋‍♂️Hello there, I am Harsh ."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - "/wordpress/"
-  - "/wordpress/index.html"
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
+🧑‍💻 I am a second-year MS student in Mechanical Engineering at Cornell University, Ithaca. I am member of the [Climate Engineering](https://climate-engineering.mae.cornell.edu/) group at Cornell Engineering under Prof. Douglas MacMartin, researching Stratospheric Aerosol Injection as a strategy to manage climate change. I did my undergrad at IIT Bombay, India in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering.
 
-Hi! I’m Stuart, an ethnographer and post-doctoral scholar at the [Berkeley Institute for Data Science](http://bids.berkeley.edu) at UC-Berkeley. What is an ethnographer? I’m a social scientist who uses many different methods to holistically study and analyze culture, while trying to uphold two goals: 1) to do research while embedded in the social worlds I study, and 2) to understand the worldviews and perspectives of the people I study. I call myself a computational ethnographer and an ethnographer of computation, because I both use computational methods along side traditional qualitative methods in my own ethnographic work, as well as study people as they build, support, interact with, and relate to computational systems.
+🧐 I am passionate about helping create a sustainable, comfortable and resilient climate that allows human prosperity, and equity. Currently, I am doing my research in geoengineering. This field explores last-resort solutions to temporarily stabilize Earth's climate if we fall short of managing our emissions before the adverse effects start kicking in. My focus is on Stratospheric Aerosol Injection.
 
-I focus on the infrastructures and institutions that support the production of information and knowledge. Most of my previous work has been on [Wikipedia](http://enwp.org/Wikipedia), where I’ve spent almost a decade researching the community of volunteer editors who produce and maintain an open encyclopedia. I’ve also researched distributed scientific research networks and projects, including the [Long-Term Ecological Research Network](https://lternet.edu/) and the [Open Science Grid](https://www.opensciencegrid.org/). In Wikipedia and scientific research, I study topics including newcomer socialization, cooperation and conflict, community governance, specialization and professionalization, hackathons and community workshops, quality control and verification, the roles of support staff and technicians, and diversity and inclusion. As these communities are made possible through software systems, I’m very interested in how the design of software tools and systems intersect with all of these issues.
+🔬 My previous work have span areas of Mechanical Design to Modelling, and Analysis. My skills have evolved from product design to computing and analysis lately. I love to work on hands-on problems, for feedback from the real world keeps me curious and humble!   
 
-I received my Ph.D from the [UC-Berkeley School of Information](http://ischool.berkeley.edu), my M.A. from the [Communication, Culture, and Technology program](http://cct.georgetown.edu) at Georgetown University, and my B.A. in [the Humanities program](https://liberalarts.utexas.edu/humanities/) at the University of Texas at Austin. I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / Internet studies.  Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and experimental methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines.
+🪴 I was born in a small town called Jhunjhunu, situated near Jaipur, Rajasthan, India, and I live in Ithaca, United States.

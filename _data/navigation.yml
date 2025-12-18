@@ -1,19 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /articles/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "Expressions"
-    url: /expressions/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  #- title: "Filmmaking"
+  #  url: /talks/    
+
   - title: "CV"
-    url: /cv/
-  
-  - title: "Contact"
-    url: /contact/
+    url: /files/Academic_CV_Nov25_2 page_online.pdf
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  - title: "Projects"
+    url: /projects/
+
+  #- title: "Filmmaking"
+  #  url: /filmmaking/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
+  #- title: "Guide"
+  #  url: /markdown/
