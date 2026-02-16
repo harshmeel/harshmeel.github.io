@@ -6,10 +6,14 @@ excerpt: >
   <table style="border-collapse:collapse; border:0; width:100%;">
     <tr>
       <td style="border:0; padding-right:5px; width:50%;">
-        /images/feedback_control_step.png
+        <img src="/images/feedback_control_step.png"
+             alt="Step Response"
+             style="max-width:100%; height:auto; display:block;">
       </td>
       <td style="border:0; padding-left:5px; width:50%;">
-        /images/system_response_to_ramp.png
+        <img src="/images/system_response_to_ramp.png"
+             alt="Ramp input vs System response"
+             style="max-width:100%; height:auto; display:block;">
       </td>
     </tr>
   </table>
