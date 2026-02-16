@@ -1,4 +1,4 @@
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
 /Users/harshmeel/.rbenv/versions/4.0.1/bin/ruby extconf.rb
 checking for pkg-config for libffi... ["-I/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/usr/include/ffi ", "", "-lffi"]
 checking for ffi_prep_closure_loc() in -lffi... yes
@@ -10,11 +10,11 @@ checking for whether -pthread is accepted as LDFLAGS... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-hfwysu sitelibdir\=./.gem.20260212-56227-hfwysu clean
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-2o8n22 sitelibdir\=./.gem.20260215-24142-2o8n22 clean
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-hfwysu sitelibdir\=./.gem.20260212-56227-hfwysu
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-2o8n22 sitelibdir\=./.gem.20260215-24142-2o8n22
 compiling AbstractMemory.c
 compiling ArrayType.c
 compiling Buffer.c
@@ -30,8 +30,8 @@ compiling MemoryPointer.c
 compiling MethodHandle.c
 compiling Platform.c
 compiling Pointer.c
-compiling Struct.c
 compiling StructByValue.c
+compiling Struct.c
 compiling StructLayout.c
 compiling Thread.c
 compiling Type.c
@@ -41,9 +41,9 @@ compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: ignoring duplicate libraries: '-lffi'
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-hfwysu sitelibdir\=./.gem.20260212-56227-hfwysu install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20260212-56227-hfwysu
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-2o8n22 sitelibdir\=./.gem.20260215-24142-2o8n22 install
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20260215-24142-2o8n22
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
-make DESTDIR\= sitearchdir\=./.gem.20260212-56227-hfwysu sitelibdir\=./.gem.20260212-56227-hfwysu clean
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/ffi-1.17.2/ext/ffi_c
+make DESTDIR\= sitearchdir\=./.gem.20260215-24142-2o8n22 sitelibdir\=./.gem.20260215-24142-2o8n22 clean

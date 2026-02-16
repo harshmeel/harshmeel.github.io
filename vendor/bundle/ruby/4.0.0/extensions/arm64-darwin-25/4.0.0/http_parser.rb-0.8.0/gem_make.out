@@ -1,12 +1,12 @@
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 /Users/harshmeel/.rbenv/versions/4.0.1/bin/ruby extconf.rb
 creating Makefile
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-q9x715 sitelibdir\=./.gem.20260212-56227-q9x715 clean
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-u70drz sitelibdir\=./.gem.20260215-24142-u70drz clean
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-q9x715 sitelibdir\=./.gem.20260212-56227-q9x715
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-u70drz sitelibdir\=./.gem.20260215-24142-u70drz
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 ruby_http_parser.c:296:10: warning: 'rb_data_object_wrap_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
@@ -665,9 +665,9 @@ note: (skipping 1 expansions in backtrace; use -fmacro-backtrace-limit=0 to see 
 22 warnings generated.
 linking shared-object ruby_http_parser.bundle
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make -j13 DESTDIR\= sitearchdir\=./.gem.20260212-56227-q9x715 sitelibdir\=./.gem.20260212-56227-q9x715 install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260212-56227-q9x715
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260215-24142-u70drz sitelibdir\=./.gem.20260215-24142-u70drz install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260215-24142-u70drz
 
-current directory: /Users/harshmeel/Documents/Academic Website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20260212-56227-q9x715 sitelibdir\=./.gem.20260212-56227-q9x715 clean
+current directory: /Users/harshmeel/Documents/Academic_website/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260215-24142-u70drz sitelibdir\=./.gem.20260215-24142-u70drz clean

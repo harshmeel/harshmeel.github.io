@@ -173,7 +173,7 @@ DYLD_LIBRARY_PATH=.:/Users/harshmeel/.rbenv/versions/4.0.1/lib LSAN_OPTIONS=dete
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-590df2.o
+      _t in conftest-ea2622.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -340,7 +340,7 @@ DYLD_LIBRARY_PATH=.:/Users/harshmeel/.rbenv/versions/4.0.1/lib LSAN_OPTIONS=dete
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_enable_interrupt", referenced from:
-      _t in conftest-7c3142.o
+      _t in conftest-0731af.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -524,7 +524,7 @@ DYLD_LIBRARY_PATH=.:/Users/harshmeel/.rbenv/versions/4.0.1/lib LSAN_OPTIONS=dete
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_pipe2", referenced from:
-      _t in conftest-f50fc3.o
+      _t in conftest-901d8f.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -581,7 +581,7 @@ DYLD_LIBRARY_PATH=.:/Users/harshmeel/.rbenv/versions/4.0.1/lib LSAN_OPTIONS=dete
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_accept4", referenced from:
-      _t in conftest-22f03c.o
+      _t in conftest-35b9a0.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
