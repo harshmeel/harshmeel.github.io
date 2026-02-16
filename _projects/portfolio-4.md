@@ -1,7 +1,7 @@
 ---
 title: "Overtake Assist System"
 excerpt:  >
-  _Harsh Meel,[Ayush Jangir](https://www.linkedin.com/in/ayush-jangir-183294194/),[Paarth Jain](https://www.linkedin.com/in/paarth-jain-950806190), Sabhya Sanchi-Institute Technical Summer Project_ <br/>
+  _Harsh Meel,[Ayush Jangir](https://www.linkedin.com/in/ayush-jangir-183294194/),[Paarth Jain](https://www.linkedin.com/in/paarth-jain-950806190), Sabhya Sanchi-Institute Technical Summer Project,Modeling and Simulation (2020)_ <br/>
   In the summer of 2020, during our first year of undergrad, we embarked on a project to enhance road safety.Our objective was to counter the prevalent issue of accidents arising from ill-timed overtaking maneuvers.We conceived a driver-assist system tailored to address this concern. The project's success was underscored by a special mention from the Institute Technical Council at IIT Bombay.<br/>  
   <img src='/images/saviors simulator.png' alt='Energy AI art' width='500px'>
 

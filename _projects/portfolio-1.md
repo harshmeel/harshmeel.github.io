@@ -1,7 +1,7 @@
 ---
 title: "Design of Lithium-Ion Battery for Formula Student Electric"
 excerpt: >
-    _Harsh Meel, [M Danish](https://www.linkedin.com/in/danish-m-444848198/)-Battery Subsystem-Design Engineer-Automotive Engineering_ <br/>
+    _Harsh Meel, [M Danish](https://www.linkedin.com/in/danish-m-444848198/)-Battery Subsystem,Design Engineer,Automotive Engineering (2022)_ <br/>
     In my third year of Undergrad, I worked as a Mechanical Design Engineer for [IIT Bombay Racing](https://www.iitbracing.org/). The team builds a battery-run formula-style car from scratch in a year and competes at Formula Student UK, an international student competition, where we won the Design Event in 2021.<br/>
     <img src='/images/battery stack.JPG' alt='Battery Stack' width='300px'> <img src='/images/battery assembly.png' alt='Battery Assembly' width='300px'>
 collection: projects

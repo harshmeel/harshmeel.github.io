@@ -1,7 +1,7 @@
 ---
 title: "Residential Electric Vehicle Charging - An Entrepreneurial Venture Study"
 excerpt:  >
-  _Harsh Meel, [Yash Patil](https://www.linkedin.com/in/yash-patil-675863194)- Guided by: Prof. Anuradha Narasimhan, Desai Sethi School of Entrepreneurship IIT Bombay_ <br/>
+  _Harsh Meel, [Yash Patil](https://www.linkedin.com/in/yash-patil-675863194)-Vehicle Charging,Business Modeling (2022)_ <br/>
 
   Despite world class products in the market, Indians are hesitating to go electric. This is largely due to lack
   of good charging infrastructure in place. We designed a startup focused to solve this problem. <br/>

@@ -1,7 +1,7 @@
 ---
 title: "Reliability Analysis of Renewable Grid Transition in New York Using Data-Driven Models "
 excerpt:  >
-  _Harsh Meel-Machine Learning-Probability and Statistics-Renewable Grid_ <br/>
+  _Machine Learning,Probability and Statistics,Renewable Grid (2024)_ <br/>
    As New York transitions toward a zero-carbon grid, price volatility poses challenges for reliability and energy equity.In this project, which I undertook as part of the the Statistics and Machine Learning class for my MS at Cornell University, we look the possiblity of increase in factors like price spikes due to such transitions in the grid using data analytics. <br/>  
 gallery:
   - url: price_spike_time_series.png

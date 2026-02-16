@@ -1,12 +1,19 @@
 ---
 title: "Frequency domain feedback control of temperature for a simplified earth system model"
 excerpt: >	
-   <table width="100%"><tr>
-     <td align="left"><em>Harsh Meel-Controls and Dynamics-Climate Engineering</em></td>
-     <td align="right">2025</td>
-   </tr></table>
+  _Controls and Dynamics,Climate Engineering (2025)_ <br/>
    During my MS at Cornell, I took an academic course on Feedback Control Systems under Prof. Douglas MacMartin. For the course project, I designed a feedback controller in the frequency domain. Its goal was to stabilize Earth's surface temperature in the presence of a ramped disturbance (greenhouse gases) by controlling the amount of radiative forcing the Earth receives. I analyzed the controller's performance, including settling time and possible saturation of SAI.<br/>
-   <img src='/images/feedback_control_step.png' alt='Step response' width='500px'> <img src='/images/system_response_to_ramp.png' alt='Ramp vs System response' width='500px'>
+  <table style="border-collapse:collapse; border:0; width:100%;">
+    <tr>
+      <td style="border:0; padding-right:5px; width:50%;">
+        /images/feedback_control_step.png
+      </td>
+      <td style="border:0; padding-left:5px; width:50%;">
+        /images/system_response_to_ramp.png
+      </td>
+    </tr>
+  </table>
+
 collection: projects
 ---
 [Click here]( https://harshmeel.github.io/files/Earth_temperature_feedback_control.pdf) for detailed report of the project.
