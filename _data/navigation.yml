@@ -3,20 +3,17 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Filmmaking"
+  #- title: "Talks"
   #  url: /talks/    
 
-  - title: "CV"
-    url: /files/Academic_CV_Nov25_2 page_online.pdf
+  - title: "Resume"
+    url: /files/resume_1_pg_website.pdf
 
   #- title: "Teaching"
   #  url: /teaching/    
     
   - title: "Projects"
     url: /projects/
-
-  #- title: "Filmmaking"
-  #  url: /filmmaking/
         
   #- title: "Blog Posts"
   #  url: /year-archive/

@@ -84,7 +84,7 @@ author:
   avatar           : "IIT00014 5 copy.jpg"
   bio              : "Climate Tech Researcher | MS MechE Cornell'26 | BTech IIT Bombay'23"
   location         : "Ithaca, New York"
-  employer         : "Graduate Student at Cornell Engineering"
+  employer         : "Graduate Student"
   pubmed           : 
   googlescholar    : 
   email            : "hm642@cornell.edu"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
