@@ -1,9 +1,9 @@
 ---
 title: >
   My Critique of "An Inconvenient Truth" and "The Great Global Warming Swindle" : two popular documentaries on climate change.
-excerpt: >
-	_Climate Change (2021)_ <br/>
-	A very early academic assignment that strongly influenced my interest in climate change research! <br/>
+excerpt:  >
+  _Climate Change (2021)_ <br/>
+  An early academic assignment that strongly influenced my interest in climate change research!<br/>
 
 collection: projects
 ---
