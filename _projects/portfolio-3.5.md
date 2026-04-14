@@ -3,8 +3,7 @@ title: "Residential Electric Vehicle Charging - An Entrepreneurial Venture Study
 excerpt:  >
   _Harsh Meel, [Yash Patil](https://www.linkedin.com/in/yash-patil-675863194)-Vehicle Charging,Business Modeling (2022)_ <br/>
 
-  Despite world class products in the market, Indians are hesitating to go electric. This is largely due to lack
-  of good charging infrastructure in place. We designed a startup focused to solve this problem. <br/>
+  Despite world class products in the market, Indians are hesitating to go electric. This is largely due to lack of good charging infrastructure in place. For an academic class in entrepreneurship, we designed a startup pitch to solve this problem.<br/>
 gallery:
   - url: charging -1.png
     image_path: charging -1.png
