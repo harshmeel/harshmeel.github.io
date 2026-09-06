@@ -12,6 +12,3 @@ I am a second-year MS(Research) student in Mechanical Engineering at Cornell Uni
 
 My current research work looks into the impacts of SAI on regional climate systems like the Indian Monsoon. We are testing strategies to mitigate the risk of a significant shift in monsoon precipitation strength in the background of a warmer world.
 
-Please feel free to reach out to me via email for anything related to my work, collaboration, advice (to anyone I could), or just interesting things happening on this earth. I read my emails!
-
-For my background, I was born in the town of Jhunjhunu, located north of Jaipur, Rajasthan, India.

@@ -6,14 +6,14 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Resume"
-    url: /files/Resume_website.pdf
+  #- title: "Resume"
+  #  url: /files/Resume_website.pdf
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
