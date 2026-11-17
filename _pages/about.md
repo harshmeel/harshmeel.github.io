@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year MS(Research) student in Mechanical Engineering at Cornell University, Ithaca. I am working under the guidance of Prof. Douglas MacMartin of the [Climate Engineering Group](https://climate-engineering.mae.cornell.edu/), focusing on the use of Stratospheric Aerosol Injection (SAI) to engineer resilience against the adverse effects of anthropogenic global warming. I completed my undergraduate studies at IIT Bombay, India, in 2023, Majoring in Civil Engineering with a Minor in Mechanical Engineering.
+I am an MS(Research) student in Mechanical Engineering at Cornell University, Ithaca. I am working under the guidance of Prof. Douglas MacMartin of the [Climate Engineering Group](https://climate-engineering.mae.cornell.edu/), working on the effects of Stratospheric Aerosol Injection (SAI) on the Indian Monsoon. I completed my undergraduate studies at IIT Bombay, India, in 2023.
 
-My current research work looks into the impacts of SAI on regional climate systems like the Indian Monsoon. We are testing strategies to mitigate the risk of a significant shift in monsoon precipitation strength in the background of a warmer world.
 
